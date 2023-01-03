@@ -8,15 +8,15 @@
   margin-top: 12px;
 }
 
-.app-brand-logo.demo svg {
-  width: 22px;
+.app-brand-logo.demo img {
+  width: 40px;
   height: 38px;
 }
 
 .app-brand-text.demo {
   font-size: 1.75rem;
   letter-spacing: -0.5px;
-  text-transform: lowercase;
+  text-transform: uppercase;
 }
 
 /* ! For .layout-navbar-fixed added fix padding top tpo .layout-page */
